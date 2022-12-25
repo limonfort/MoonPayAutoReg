@@ -18,7 +18,4 @@ This is MoonPay AutoReg for the https://www.moonpay.com/web3-passport website, i
 - Переходим на https://chromedriver.chromium.org/downloads и устанавливаем версию, идентичную с версией хрома (для меня это 108)
 
 
-В mails.txt вписываем почты, на каждую страницу 1 почта ex:
--mailforex@gmail.com
--mailforex2@gmail.com
--mailforex3@gmail.com
+В mails.txt вписываем почты, на каждую стоку 1 почта
