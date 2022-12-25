@@ -1,6 +1,8 @@
 # MoonPayAutoReg
 This is MoonPay AutoReg for the https://www.moonpay.com/web3-passport website, it allows you to waitlist all of the mails from "mails.txt" 
 
+Пока не поддерживает прокси, и вполне возможно что ваши почты улетят в антифрод
+
 Установка:
 переносим все файлы в папку, в пути не должно быть кириллицы и пробелов
 
