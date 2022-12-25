@@ -2,7 +2,7 @@
 This is MoonPay AutoReg for the https://www.moonpay.com/web3-passport website, it allows you to waitlist all of the mails from "mails.txt" 
 
 Установка:
-# переносим все файлы в папку, в пути не должно быть кириллицы и пробелов
+переносим все файлы в папку, в пути не должно быть кириллицы и пробелов
 
 - win+r -> cmd
 - cd /d ПутьКФайлу ex: cd /d C:TwitterMultiActions
@@ -19,6 +19,6 @@ This is MoonPay AutoReg for the https://www.moonpay.com/web3-passport website, i
 
 
 В mails.txt вписываем почты, на каждую страницу 1 почта ex:
-mailforex@gmail.com
-mailforex2@gmail.com
-mailforex3@gmail.com
+-mailforex@gmail.com
+-mailforex2@gmail.com
+-mailforex3@gmail.com
